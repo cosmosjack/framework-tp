@@ -40,7 +40,7 @@ ThinkPHP6.0底层架构采用PHP7.1改写和进一步优化。
 ## 安装
 
 ~~~
-composer create-project topthink/think tp
+composer create-project oss_think/think tp
 ~~~
 
 启动服务
@@ -58,7 +58,7 @@ http://localhost:8000
 
 如果需要更新框架使用
 ~~~
-composer update topthink/framework
+composer update oss_think/framework
 ~~~
 
 ## 文档
